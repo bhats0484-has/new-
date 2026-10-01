@@ -1,8 +1,5 @@
-streamlit
-pandas
-numpy
-plotly
-nltk
-network
-metplotlib
-
+streamlit as st
+import pandas as pd
+import plotly.express as px
+import networkx as nx
+import nltk
